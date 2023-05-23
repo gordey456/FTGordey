@@ -1,2 +1,2 @@
-# FTGordey
-User bot for telegamm
+# Made by Gordey Liubimov 
+
